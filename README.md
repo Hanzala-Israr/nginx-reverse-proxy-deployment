@@ -119,4 +119,8 @@ Open your browser and navigate to your domain: `http://<domain name>`
 * Adjust IPs and ports according to your server setup.
 * Static frontend is served by Nginx, while API and WebSocket requests are proxied to Node.js backend.
 
+---
 
+## Author
+
+Hanzala Israr 
